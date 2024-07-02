@@ -1,0 +1,40 @@
+body{
+    font-family: sans-serif;
+    background-color: aqua;
+}
+
+h2{
+    font-size: 2rem;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+.todo{
+    border: 2px solid black;
+    height: 500px;
+    width: 600px;
+    margin: auto;
+    background-color: lightgrey;
+}
+
+.input-area{
+    margin: auto;
+    margin-top: 20px;
+    width: 280px;
+}
+
+.list{
+    border: 1px solid grey;
+    height:330px;
+    width:400px;
+    margin: auto;
+    background-color: whitesmoke;
+}
+
+button:hover{
+    background-color: blue;
+    filter:drop-shadow(0 0 10px)
+}
